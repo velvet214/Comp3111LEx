@@ -10,4 +10,4 @@ This is a sample project for COMP 3111.
 
 A screenshot of the IDE.
 
-![](/images/1.png)
+![](../../../../images/1.png)
